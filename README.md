@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Blessednotlucki
 - 👀 I’m interested in IT and ethical hacking
 - 🌱 I’m currently learning bash scripting
-- 💞️ I’m looking to collaborate on projects to do with self hosting currently or coding
+- 💞️ I’m looking to collaborate on projects to do with coding
 - 📫 williampataca@hotmail.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: I skateboard almost like a pro
+- ⚡ Fun fact: I skateboard 
 
 <!---
 Blessednotlucki/Blessednotlucki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
