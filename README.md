@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Blessednotlucki
-- 👀 I’m interested in IT and ethical hacking
+- 👋 Hi, I’m @Cozygrimm
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning bash scripting
 - 💞️ I’m looking to collaborate on projects to do with coding
 - 📫 williampataca@hotmail.com
